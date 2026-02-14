@@ -33,7 +33,8 @@ The sizes of the main parameters of the flower by type
 Фото ириса: Елена Трацевская</br>
 
 **Дашборд, реализованный в Power BI**</br>
-![Iris_7](https://github.com/user-attachments/assets/98dcc24c-d40a-4b15-aec3-c5f59c223e2a)
+![Iris_8](https://github.com/user-attachments/assets/7f1fdab9-aa0d-4b9f-aa3d-55e1c4dbc17e)
+
 
 </br>
 
