@@ -9,7 +9,6 @@ The sizes of the main parameters of the flower by type
 </div></br></br>
 
 Дашборд в Power BI составлен по данным с портала [kaggle](https://www.kaggle.com/datasets/soylevbeytullah/flowers-dataset-iris) <br> 
-
 в августе 2024 года для публикации в [linkedin](https://www.linkedin.com/posts/elena-tratsevskaya-a0bb3342_powerbi-dax-figma-activity-7226193986279878656-rLac?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkQ8OsBTDKptoUGq5Vx-_q_4kEInrVJc0c) </br><br>
 
 Набор данных Iris использовался в классической статье Р. А. Фишера 1936 года «Использование множественных измерений 
